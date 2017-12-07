@@ -1,12 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Contribution Guidelines](#contribution-guidelines)
-  - [Updating your PR](#updating-your-pr)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Contribution Guidelines
 
 Please note that this project is released with a
@@ -17,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Run `doctoc` on the repo to generate an updated table-of-contents (if adding a new section)
+- Run `doctoc README.md` on the repo to generate an updated table-of-contents (if adding a new section)
     - Doctoc can be found [here](https://github.com/thlorenz/doctoc).
 - Ensure that any suggestions are directly related to the Lightning Network
 
