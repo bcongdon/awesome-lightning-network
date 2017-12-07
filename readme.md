@@ -38,11 +38,11 @@
 Implementations of the Lightning Network Protocol
 
 - [LND](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon (Golang)
-- [eclair](https://github.com/ACINQ/eclair) - A scala implementation of the Lightning Network (Scala)
+- [eclair](https://github.com/ACINQ/eclair) - A Scala implementation of the Lightning Network (Scala)
 - [lit](https://github.com/mit-dci/lit) - Lightning Network node software (Golang)
 - [c-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
-- [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation [Incopmlete]
+- [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation [Incomplete]
 
 ### Specifications / White Papers
 
@@ -100,7 +100,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
 - [Using the LND Web Client](http://dev.lightning.community/tutorial/02-web-client/index.html)
 - [Using the LND gRPC Client](http://dev.lightning.community/tutorial/03-rpc-client/index.html)
-- [Integrating Lightning into a server-side web applicaiton](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
+- [Integrating Lightning into a server-side web application](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
 - [How to use a Python gRPC Client with LND](http://dev.lightning.community/guides/python-grpc/)
 - [How to use a Javascript gRPC Client with LND](http://dev.lightning.community/guides/javascript-grpc/)
 
