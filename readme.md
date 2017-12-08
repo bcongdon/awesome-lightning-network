@@ -59,6 +59,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 
 - [lightning-app](https://github.com/lightninglabs/lightning-app) - Cross-platform Lightning Desktop Application
 - [lnd-gui](https://github.com/alexbosworth/lnd-gui) - Lightning MacOS GUI Wallet
+- [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
 
 
@@ -78,8 +79,8 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 ## Developer Resources
 
 - [Lightning Overview](http://dev.lightning.community/overview/)
-- [Lightning Network Developers Site](http://dev.lightning.community/)
-- [Lightning Network Developer Guide](http://dev.lightning.community/guides/)
+- [LND Developers Site](http://dev.lightning.community/)
+- [LND Developer Guide](http://dev.lightning.community/guides/)
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
 
 ### Libraries
