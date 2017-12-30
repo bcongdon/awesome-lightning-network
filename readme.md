@@ -75,6 +75,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
+- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
 
 ## Developer Resources
 
