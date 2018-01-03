@@ -87,9 +87,9 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 ### Libraries
 
 - [lightning-integration](https://github.com/cdecker/lightning-integration) - Lightning Integration Testing Framework
-- [lightning-strike](https://github.com/ElementsProject/lightning-strike) - A simple drop-in solution for accepting lightning payments (Javascript)
-- [lightning-strike-client-js](https://github.com/ElementsProject/lightning-strike-client-js) - JavaScript client for lightning-strike
-- [lightning-strike-client-php](https://github.com/ElementsProject/lightning-strike-client-php) - PHP client for lightning-strike
+- [lightning-charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments (Javascript)
+- [lightning-charge-client-js](https://github.com/ElementsProject/lightning-charge-client-js) - JavaScript client for lightning-charge
+- [lightning-charge-client-php](https://github.com/ElementsProject/lightning-charge-client-php) - PHP client for lightning-charge
 - [lightning-payencode](https://github.com/rustyrussell/lightning-payencode) - Minimal QR-code-ready encoding for requesting lightning payments
 - [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
