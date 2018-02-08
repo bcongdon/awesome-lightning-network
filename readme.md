@@ -62,12 +62,12 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
 
-
 ### Web Interfaces
 
 - [lncli-web](https://github.com/mably/lncli-web) - Light-weight web client for the lnd daemon written in NodeJS / Angular
 - [lnd-chrome-extension](https://chrome.google.com/webstore/detail/lnd-chrome-extension/fckoopaejbdhcjgpjllghoadkeicdjnf?hl=en)
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
+- [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
 
 ### Misc
 
@@ -76,6 +76,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
 - [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
+- [Bitcoin + Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.wallet) - An Android based Lightning Network compatible wallet (based on eclair)
 
 ## Developer Resources
 
