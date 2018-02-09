@@ -96,6 +96,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [lnrpc-client](https://github.com/michielbdejong/lnrpc-client) - Javascript RPC Client for LND
 - [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
+- [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
 
 
 ### Tutorials
