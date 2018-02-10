@@ -14,6 +14,7 @@
 - [Applications](#applications)
   - [Desktop Interfaces](#desktop-interfaces)
   - [Web Interfaces](#web-interfaces)
+  - [Explorers](#explorers)
   - [Misc](#misc)
 - [Developer Resources](#developer-resources)
   - [Libraries](#libraries)
@@ -50,8 +51,7 @@ Implementations of the Lightning Network Protocol
 - [LND API Reference](http://api.lightning.community/)
 - [Lightning Network White Paper](https://lightning.network/lightning-network-paper.pdf)
 - [Deployable Lightning White Paper](https://github.com/ElementsProject/lightning/blob/master/doc/deployable-lightning.pdf)
-- [Scalable Funding of Bitcoin Micropayment
-Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba96/Scalable_Funding_Of_Blockchain_Micropayment_Networks%20(1).pdf)
+- [Scalable Funding of Bitcoin Micropayment Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba96/Scalable_Funding_Of_Blockchain_Micropayment_Networks%20(1).pdf)
 
 ## Applications
 
@@ -69,13 +69,19 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
 
+### Explorers
+
+- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
+- [Recksplorer](https://lnmainnet.gaben.win/) - Lightning network explorer (mainnet)
+- [Bitcoin Exchange Rate](https://bitcoinexchangerate.org/lightning) - Lightning network explorer (testnet and mainnet)
+- [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
+
 ### Misc
 
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
 - [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
-- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
 - [Bitcoin + Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.wallet) - An Android based Lightning Network compatible wallet (based on eclair)
 
 ## Developer Resources
