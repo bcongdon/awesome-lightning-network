@@ -154,6 +154,8 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)
 
+## Miscellaneous
+- List of lightning network stores ([github](https://github.com/lightningnetworkstores/lightningnetworkstores.github.io), [website](http://lightningnetworkstores.com/))
 
 ## Contribute
 
