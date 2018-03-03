@@ -159,9 +159,7 @@ Implementations of the Lightning Network Protocol
 
 - [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)
-
-## Miscellaneous
-- List of lightning network stores ([github](https://github.com/lightningnetworkstores/lightningnetworkstores.github.io), [website](http://lightningnetworkstores.com/))
+- [Lightning Network Stores](http://lightningnetworkstores.com/)
 
 ## Contribute
 
