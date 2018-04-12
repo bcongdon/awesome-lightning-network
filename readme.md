@@ -61,6 +61,7 @@ Implementations of the Lightning Network Protocol
 - [lnd-gui](https://github.com/alexbosworth/lnd-gui) - Lightning MacOS GUI Wallet
 - [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
+- [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 
 ### Web Interfaces
 
