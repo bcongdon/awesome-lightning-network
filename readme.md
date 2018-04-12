@@ -110,6 +110,7 @@ Implementations of the Lightning Network Protocol
 - [lightning-rest](https://github.com/hbasria/lightning-rest) - Rest server for the lightningd RPC.
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital giles with Lightning
+- [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 
 ### Tutorials
 
