@@ -108,7 +108,7 @@ Implementations of the Lightning Network Protocol
 - [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
 - [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
 - [lightning-rest](https://github.com/hbasria/lightning-rest) - Rest server for the lightningd RPC.
-
+- [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 
 ### Tutorials
 
