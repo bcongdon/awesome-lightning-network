@@ -61,6 +61,7 @@ Implementations of the Lightning Network Protocol
 - [lnd-gui](https://github.com/alexbosworth/lnd-gui) - Lightning MacOS GUI Wallet
 - [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
+- [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 
 ### Web Interfaces
 
@@ -83,6 +84,9 @@ Implementations of the Lightning Network Protocol
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
 - [Bitcoin + Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.wallet) - An Android based Lightning Network compatible wallet (based on eclair)
+- [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [more info on the blockstreamsite](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
+- [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [more info on the blockstream site](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
+- [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
 
 ## Developer Resources
 
@@ -104,7 +108,9 @@ Implementations of the Lightning Network Protocol
 - [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
 - [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
 - [lightning-rest](https://github.com/hbasria/lightning-rest) - Rest server for the lightningd RPC.
-
+- [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
+- [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
+- [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 
 ### Tutorials
 
