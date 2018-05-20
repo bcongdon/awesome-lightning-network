@@ -156,7 +156,7 @@ Implementations of the Lightning Network Protocol
 - [Lightning Network Community Blog](http://lightning.community/)
 - [Lightning Network Twitter Feed](https://twitter.com/lightning)
 - [Lightning Network Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
-- [LND Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/MjI4OTg3MzQ4MjI2LTE1MDMxNzM1NTMtNjlmOGYzOTI1Ng)
+- [LND Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/enQtMzQ0OTQyNjE5NjU1LWRiMGNmOTZiNzU0MTVmYzc1ZGFkZTUyNzUwOGJjMjYwNWRkNWQzZWE3MTkwZjdjZGE5ZGNiNGVkMzI2MDU4ZTE)
 - [Lightning Labs Blog](https://blog.lightning.engineering/)
 
 ### IRC
