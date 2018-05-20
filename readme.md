@@ -145,6 +145,7 @@ Implementations of the Lightning Network Protocol
 - [Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs) (Andreas Antonopoulos) [27:38]
 - [Lightning Network Tech Talk at Coinbase](https://www.youtube.com/watch?v=wIhAmTqXhZQ) (Thaddeus Dryja and Joseph Poon) [58:11]
 - [Elizabeth Stark - Lightning and the Importance of Layer Two](https://www.youtube.com/watch?v=3PcR4HWJnkY) [14:15]
+- [Bitcoin Q&A: The Lightning Network](https://www.youtube.com/watch?v=vPnO9ExJ50A)  (Andreas Antonopoulos) [7:55]
 
 ### Books
 
