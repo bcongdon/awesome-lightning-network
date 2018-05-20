@@ -113,6 +113,7 @@ Implementations of the Lightning Network Protocol
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 
+
 ### Tutorials
 
 - [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
@@ -143,6 +144,7 @@ Implementations of the Lightning Network Protocol
 - [SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day](https://www.youtube.com/watch?v=8zVzw912wPo) [54:40]
 - [Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs) (Andreas Antonopoulos) [27:38]
 - [Lightning Network Tech Talk at Coinbase](https://www.youtube.com/watch?v=wIhAmTqXhZQ) (Thaddeus Dryja and Joseph Poon) [58:11]
+- [Elizabeth Stark - Lightning and the Importance of Layer Two](https://www.youtube.com/watch?v=3PcR4HWJnkY) [14:15]
 
 ### Books
 
