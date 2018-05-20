@@ -87,6 +87,7 @@ Implementations of the Lightning Network Protocol
 - [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [more info on the blockstream site](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [more info on the blockstream site](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
+- [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 
 ## Developer Resources
 
