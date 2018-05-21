@@ -87,6 +87,7 @@ Implementations of the Lightning Network Protocol
 - [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [more info on the blockstream site](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [more info on the blockstream site](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
+- [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 
 ## Developer Resources
 
@@ -111,6 +112,7 @@ Implementations of the Lightning Network Protocol
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
+
 
 ### Tutorials
 
@@ -142,6 +144,8 @@ Implementations of the Lightning Network Protocol
 - [SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day](https://www.youtube.com/watch?v=8zVzw912wPo) [54:40]
 - [Bitcoin, Lightning, and Streaming Money](https://www.youtube.com/watch?v=gF_ZQ_eijPs) (Andreas Antonopoulos) [27:38]
 - [Lightning Network Tech Talk at Coinbase](https://www.youtube.com/watch?v=wIhAmTqXhZQ) (Thaddeus Dryja and Joseph Poon) [58:11]
+- [Lightning and the Importance of Layer Two](https://www.youtube.com/watch?v=3PcR4HWJnkY) (Elizabeth Stark) [14:15]
+- [Bitcoin Q&A: The Lightning Network](https://www.youtube.com/watch?v=vPnO9ExJ50A)  (Andreas Antonopoulos) [7:55]
 
 ### Books
 
@@ -152,8 +156,9 @@ Implementations of the Lightning Network Protocol
 - [Lightning Network Community Blog](http://lightning.community/)
 - [Lightning Network Twitter Feed](https://twitter.com/lightning)
 - [Lightning Network Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
-- [LND Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/MjI4OTg3MzQ4MjI2LTE1MDMxNzM1NTMtNjlmOGYzOTI1Ng)
+- [LND Developer Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/enQtMzQ0OTQyNjE5NjU1LWRiMGNmOTZiNzU0MTVmYzc1ZGFkZTUyNzUwOGJjMjYwNWRkNWQzZWE3MTkwZjdjZGE5ZGNiNGVkMzI2MDU4ZTE)
 - [Lightning Labs Blog](https://blog.lightning.engineering/)
+- [Lightning Discord](https://discord.gg/sm2rfS7)]
 
 ### IRC
 
