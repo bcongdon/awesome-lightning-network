@@ -118,6 +118,7 @@ Implementations of the Lightning Network Protocol
 
 - [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
+- [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
 - [Using the LND Web Client](http://dev.lightning.community/tutorial/02-web-client/index.html)
 - [Using the LND gRPC Client](http://dev.lightning.community/tutorial/03-rpc-client/index.html)
 - [Integrating Lightning into a server-side web application](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
@@ -130,7 +131,7 @@ Implementations of the Lightning Network Protocol
 - [lightning-coindesk](https://github.com/lightninglabs/lightning-coindesk) - An example news app exemplifying Lightning Network micropayments integration
 
 
-## Learning Resources 
+## Learning Resources
 
 - [Lightning FAQ](https://medium.com/@AudunGulbrands1/lightning-faq-67bd2b957d70)
 - [Lightning Network Bitcoin Wiki](https://en.bitcoin.it/wiki/Lightning_Network)
