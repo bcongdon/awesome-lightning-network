@@ -69,6 +69,7 @@ Implementations of the Lightning Network Protocol
 - [lnd-chrome-extension](https://chrome.google.com/webstore/detail/lnd-chrome-extension/fckoopaejbdhcjgpjllghoadkeicdjnf?hl=en)
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
+- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI 
 
 ### Explorers
 
