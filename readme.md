@@ -178,6 +178,10 @@ Implementations of the Lightning Network Protocol
 - [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)
 - [Lightning Network Stores](http://lightningnetworkstores.com/)
 - [Accept Lightning](https://acceptlightning.com/) - Directory of merchants accepting Lightning payments
+- [Robtex LN Directory](https://www.robtex.com/directory/lightning/) - List of lapps and stores.
+- [Opennode Lapps Directory](https://lightninglist.co/) - Opennode index of lapps and stores.
+- [lnroute lists](https://lnroute.com/) - List of resources, lapps and stores.
+- [lnapps lists](https://lnapps.info/) - List of lapps index.
 
 
 ## Contribute
