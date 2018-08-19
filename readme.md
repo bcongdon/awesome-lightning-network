@@ -62,6 +62,7 @@ Implementations of the Lightning Network Protocol
 - [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
+- [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 
 ### Web Interfaces
 
@@ -77,6 +78,9 @@ Implementations of the Lightning Network Protocol
 - [Recksplorer](https://lnmainnet.gaben.win/) - Lightning network explorer (mainnet)
 - [Bitcoin Exchange Rate](https://bitcoinexchangerate.org/lightning) - Lightning network explorer (testnet and mainnet)
 - [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
+- [List of explorers](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d) - meta list of visualisers and metrics sites
+- [3D view of the LN](https://lnd3.vanilla.co.za/graphs/index.html) - single node's 3D view of LN.
+- [3D multinode view of the LN](https://lnd3.vanilla.co.za/multinodegraphs/index.html) - multiple node views combined for 3D view of LN.
 
 ### Misc
 
@@ -89,6 +93,7 @@ Implementations of the Lightning Network Protocol
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [more info on the blockstream site](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
 - [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
+- [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
 
 ## Developer Resources
 
@@ -113,7 +118,7 @@ Implementations of the Lightning Network Protocol
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
-
+- [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
 
 ### Tutorials
 
@@ -125,6 +130,7 @@ Implementations of the Lightning Network Protocol
 - [Integrating Lightning into a server-side web application](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
 - [How to use a Python gRPC Client with LND](http://dev.lightning.community/guides/python-grpc/)
 - [How to use a Javascript gRPC Client with LND](http://dev.lightning.community/guides/javascript-grpc/)
+- [Setup LND and Bitcoind on Ubuntu 16.04 LTS](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13) - Install guide for LND, bitcoind, on Ubuntu, with startup scripts with email alerts.
 
 ### Example Projects
 
@@ -174,6 +180,11 @@ Implementations of the Lightning Network Protocol
 - [awesome-blockchain](https://github.com/igorbarinov/awesome-blockchain)
 - [Lightning Network Stores](http://lightningnetworkstores.com/)
 - [Accept Lightning](https://acceptlightning.com/) - Directory of merchants accepting Lightning payments
+- [Robtex LN Directory](https://www.robtex.com/directory/lightning/) - List of lapps and stores.
+- [Opennode Lapps Directory](https://lightninglist.co/) - Opennode index of lapps and stores.
+- [lnroute lists](https://lnroute.com/) - List of resources, lapps and stores.
+- [lnapps lists](https://lnapps.info/) - List of lapps index.
+
 
 ## Contribute
 
