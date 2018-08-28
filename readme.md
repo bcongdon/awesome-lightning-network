@@ -119,6 +119,7 @@ Implementations of the Lightning Network Protocol
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 - [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
+- [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
 
 ### Tutorials
 
