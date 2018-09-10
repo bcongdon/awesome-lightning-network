@@ -111,6 +111,7 @@ Implementations of the Lightning Network Protocol
 - [LND Developers Site](http://dev.lightning.community/)
 - [LND Developer Guide](http://dev.lightning.community/guides/)
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
+- [LN in a box](https://github.com/bajohns/lightning-in-a-box) - Project that aims to quickly have lnd + btc setup for playing
 
 ### Libraries
 
