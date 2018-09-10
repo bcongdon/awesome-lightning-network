@@ -14,6 +14,7 @@
 - [Applications](#applications)
   - [Desktop Interfaces](#desktop-interfaces)
   - [Web Interfaces](#web-interfaces)
+  - [Mobile applications](#mobile-applications)
   - [Explorers](#explorers)
   - [Misc](#misc)
 - [Developer Resources](#developer-resources)
@@ -72,6 +73,10 @@ Implementations of the Lightning Network Protocol
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
 - [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI 
+
+### Mobile applications
+
+- [rawtx](https://github.com/rawtxapp/rawtxapp) - A lightning network wallet (Android, iOS); [Homepage](https://rawtx.com)
 
 ### Explorers
 
