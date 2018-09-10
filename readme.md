@@ -79,6 +79,7 @@ Implementations of the Lightning Network Protocol
 ### Mobile applications
 
 - [rawtx](https://github.com/rawtxapp/rawtxapp) - A lightning network wallet (Android, iOS); [Homepage](https://rawtx.com)
+- [Swift Lightning](https://github.com/biscottigelato/SwiftLightning) - LN wallet build on top of LND for iOS
 
 ### Explorers
 
