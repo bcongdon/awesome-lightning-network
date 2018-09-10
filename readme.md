@@ -65,6 +65,7 @@ Implementations of the Lightning Network Protocol
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
+- [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
 
 ### Web Interfaces
 
