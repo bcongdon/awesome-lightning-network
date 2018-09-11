@@ -14,6 +14,7 @@
 - [Applications](#applications)
   - [Desktop Interfaces](#desktop-interfaces)
   - [Web Interfaces](#web-interfaces)
+  - [Mobile applications](#mobile-applications)
   - [Explorers](#explorers)
   - [Misc](#misc)
 - [Developer Resources](#developer-resources)
@@ -63,6 +64,8 @@ Implementations of the Lightning Network Protocol
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
+- [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
+- [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
 
 ### Web Interfaces
 
@@ -70,7 +73,13 @@ Implementations of the Lightning Network Protocol
 - [lnd-chrome-extension](https://chrome.google.com/webstore/detail/lnd-chrome-extension/fckoopaejbdhcjgpjllghoadkeicdjnf?hl=en)
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
-- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI 
+- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
+- [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
+
+### Mobile applications
+
+- [rawtx](https://github.com/rawtxapp/rawtxapp) - A lightning network wallet (Android, iOS); [Homepage](https://rawtx.com)
+- [Swift Lightning](https://github.com/biscottigelato/SwiftLightning) - LN wallet build on top of LND for iOS
 
 ### Explorers
 
@@ -94,6 +103,7 @@ Implementations of the Lightning Network Protocol
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
 - [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 - [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
+- [lnplace](https://github.com/sangaman/lnplace) - Purchase pixels with lightning payments - Submission of [L2 Summit Hackathon](https://innovation.mit.edu/event/l2-summit/)
 
 ## Developer Resources
 
@@ -101,6 +111,7 @@ Implementations of the Lightning Network Protocol
 - [LND Developers Site](http://dev.lightning.community/)
 - [LND Developer Guide](http://dev.lightning.community/guides/)
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
+- [LN in a box](https://github.com/bajohns/lightning-in-a-box) - Project that aims to quickly have lnd + btc setup for playing
 
 ### Libraries
 
