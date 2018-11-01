@@ -134,6 +134,7 @@ Implementations of the Lightning Network Protocol
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 - [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
 - [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
+- [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the c-lightning daemon
 
 ### Tutorials
 
