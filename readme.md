@@ -138,6 +138,7 @@ Implementations of the Lightning Network Protocol
 
 ### Tutorials
 
+- [Chaincode Labs Lightning Application Residency Videos](https://lightningresidency.com/#videos)
 - [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
 - [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
