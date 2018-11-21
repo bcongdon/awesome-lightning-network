@@ -93,6 +93,7 @@ Implementations of the Lightning Network Protocol
 - [3D multinode view of the LN](https://lnd3.vanilla.co.za/multinodegraphs/index.html) - multiple node views combined for 3D view of LN.
 - [Lightblock](https://lightblock.me) - lightning network explorer mainnet.
 - [lngraph](https://github.com/xsb/lngraph) - Personal private Lightning Network explorer using Neo4j Browser.
+- [lightningfees](http://lightningfees.net) - Routing fee explorer
 
 ### Misc
 
