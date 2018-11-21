@@ -92,6 +92,7 @@ Implementations of the Lightning Network Protocol
 - [3D view of the LN](https://lnd3.vanilla.co.za/graphs/index.html) - single node's 3D view of LN.
 - [3D multinode view of the LN](https://lnd3.vanilla.co.za/multinodegraphs/index.html) - multiple node views combined for 3D view of LN.
 - [Lightblock](https://lightblock.me) - lightning network explorer mainnet.
+- [lngraph](https://github.com/xsb/lngraph) - Personal private Lightning Network explorer using Neo4j Browser.
 
 ### Misc
 
@@ -134,9 +135,11 @@ Implementations of the Lightning Network Protocol
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 - [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
 - [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
+- [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the c-lightning daemon
 
 ### Tutorials
 
+- [Chaincode Labs Lightning Application Residency Videos](https://lightningresidency.com/#videos)
 - [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
 - [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
