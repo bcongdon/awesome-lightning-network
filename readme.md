@@ -75,6 +75,7 @@ Implementations of the Lightning Network Protocol
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
 - [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
 - [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
+- [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 
 ### Mobile applications
 
