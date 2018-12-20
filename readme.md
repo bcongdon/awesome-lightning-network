@@ -75,6 +75,7 @@ Implementations of the Lightning Network Protocol
 - [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
 - [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
 - [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
+- [Joule](http://lightningjoule.com) - A chrome extension that enables payments and other interactions with lightning apps (Similar to MetaMask)
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 
 ### Mobile applications
@@ -137,6 +138,7 @@ Implementations of the Lightning Network Protocol
 - [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
 - [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
 - [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the c-lightning daemon
+- [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
 
 ### Tutorials
 
