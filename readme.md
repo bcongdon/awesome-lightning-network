@@ -98,6 +98,7 @@ Implementations of the Lightning Network Protocol
 
 ### Misc
 
+- [Lightning-Singles](https://singles.shock.network) - Is your node lonely? Find channel partners for liquidity.
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
 - [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
