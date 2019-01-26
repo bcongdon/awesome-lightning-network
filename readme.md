@@ -69,46 +69,40 @@ Implementations of the Lightning Network Protocol
 
 ### Web Interfaces
 
-- [lncli-web](https://github.com/mably/lncli-web) - Light-weight web client for the lnd daemon written in NodeJS / Angular
-- [lnd-chrome-extension](https://chrome.google.com/webstore/detail/lnd-chrome-extension/fckoopaejbdhcjgpjllghoadkeicdjnf?hl=en)
-- [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
-- [HTLC Web Lightning Wallet](https://htlc.me) - A web based lightning wallet
-- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
 - [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
+- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
 - [Joule](http://lightningjoule.com) - A chrome extension that enables payments and other interactions with lightning apps (Similar to MetaMask)
+- [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
+- [lncli-web](https://github.com/mably/lncli-web) - Light-weight web client for the lnd daemon written in NodeJS / Angular
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 
 ### Mobile applications
 
 - [rawtx](https://github.com/rawtxapp/rawtxapp) - A lightning network wallet (Android, iOS); [Homepage](https://rawtx.com)
 - [Swift Lightning](https://github.com/biscottigelato/SwiftLightning) - LN wallet build on top of LND for iOS
+- [Bitcoin Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.walletapp)  - An Android based Lightning Network compatible wallet based on Eclair ([testnet version](https://play.google.com/store/apps/details?id=com.lightning.wallet))
 
 ### Explorers
 
 - [1ML](https://1ml.com/) - 1ML explorer (mainnet + testnet)
-- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
-- [Recksplorer](https://lnmainnet.gaben.win/) - Lightning network explorer (mainnet)
 - [Bitcoin Exchange Rate](https://bitcoinexchangerate.org/lightning) - Lightning network explorer (testnet and mainnet)
-- [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
-- [List of explorers](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d) - meta list of visualisers and metrics sites
-- [3D view of the LN](https://lnd3.vanilla.co.za/graphs/index.html) - single node's 3D view of LN.
-- [3D multinode view of the LN](https://lnd3.vanilla.co.za/multinodegraphs/index.html) - multiple node views combined for 3D view of LN.
 - [Lightblock](https://lightblock.me) - lightning network explorer mainnet.
+- [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
+- [List of explorers](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d) - meta list of visualisers and metrics sites
 - [lngraph](https://github.com/xsb/lngraph) - Personal private Lightning Network explorer using Neo4j Browser.
+- [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
 
 ### Misc
 
+- [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [Blog Post](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
-- [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
-- [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
-- [lightning-cat](https://github.com/rustyrussell/lightning-cat/blob/master/catsearch.sh) - Cat pictures via Lightning
-- Bitcoin + Lightning Wallet - [mainnet](https://play.google.com/store/apps/details?id=com.lightning.walletapp) or [testnet](https://play.google.com/store/apps/details?id=com.lightning.wallet) - An Android based Lightning Network compatible wallet (based on eclair)
-- [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [more info on the blockstream site](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
-- [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [more info on the blockstream site](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
-- [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [more info on the blockstream site](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
+- [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [Blog Post](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
 - [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 - [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
+- [ln-dice](https://github.com/mably/ln-dice) - Dice gambling service using the Lightning Network for deposits and withdrawals
+- [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lnplace](https://github.com/sangaman/lnplace) - Purchase pixels with lightning payments - Submission of [L2 Summit Hackathon](https://innovation.mit.edu/event/l2-summit/)
+- [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [Blog Post](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 
 ## Developer Resources
 
@@ -121,36 +115,34 @@ Implementations of the Lightning Network Protocol
 
 ### Libraries
 
-- [lightning-integration](https://github.com/cdecker/lightning-integration) - Lightning Integration Testing Framework
-- [lightning-charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments (Javascript)
+- [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [lightning-charge-client-js](https://github.com/ElementsProject/lightning-charge-client-js) - JavaScript client for lightning-charge
 - [lightning-charge-client-php](https://github.com/ElementsProject/lightning-charge-client-php) - PHP client for lightning-charge
+- [lightning-charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments (Javascript)
+- [lightning-integration](https://github.com/cdecker/lightning-integration) - Lightning Integration Testing Framework
 - [lightning-payencode](https://github.com/rustyrussell/lightning-payencode) - Minimal QR-code-ready encoding for requesting lightning payments
-- [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
-- [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
-- [lnrpc-client](https://github.com/michielbdejong/lnrpc-client) - Javascript RPC Client for LND
-- [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
-- [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
-- [lightning-rest](https://github.com/hbasria/lightning-rest) - Rest server for the lightningd RPC.
-- [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
-- [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
-- [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
-- [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
-- [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
 - [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the c-lightning daemon
+- [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
+- [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
+- [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
+- [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
+- [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
+- [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
 - [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
+- [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
+- [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 
 ### Tutorials
 
-- [Chaincode Labs Lightning Application Residency Videos](https://lightningresidency.com/#videos)
-- [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
-- [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
-- [Using the LND Web Client](http://dev.lightning.community/tutorial/02-web-client/index.html)
 - [Using the LND gRPC Client](http://dev.lightning.community/tutorial/03-rpc-client/index.html)
 - [Integrating Lightning into a server-side web application](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
 - [How to use a Python gRPC Client with LND](http://dev.lightning.community/guides/python-grpc/)
 - [How to use a Javascript gRPC Client with LND](http://dev.lightning.community/guides/javascript-grpc/)
+- [Chaincode Labs Lightning Application Residency Videos](https://lightningresidency.com/#videos)
+- [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
+- [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
+- [Using the LND Web Client](http://dev.lightning.community/tutorial/02-web-client/index.html)
 - [Setup LND and Bitcoind on Ubuntu 16.04 LTS](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13) - Install guide for LND, bitcoind, on Ubuntu, with startup scripts with email alerts.
 
 ### Example Projects
