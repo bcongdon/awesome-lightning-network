@@ -118,6 +118,7 @@ Implementations of the Lightning Network Protocol
 ### Libraries
 
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
+- [Lighter](https://gitlab.com/inbitcoin/lighter) - LN node wrapper for c-lightning, eclair and LND (Python)
 - [lightning-charge-client-js](https://github.com/ElementsProject/lightning-charge-client-js) - JavaScript client for lightning-charge
 - [lightning-charge-client-php](https://github.com/ElementsProject/lightning-charge-client-php) - PHP client for lightning-charge
 - [lightning-charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments (Javascript)
