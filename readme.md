@@ -158,6 +158,7 @@ Implementations of the Lightning Network Protocol
 
 - [Lightning FAQ](https://medium.com/@AudunGulbrands1/lightning-faq-67bd2b957d70)
 - [Lightning Network Bitcoin Wiki](https://en.bitcoin.it/wiki/Lightning_Network)
+- [Radar ION - Guide to joining the Lightning Network] (https://ion.radar.tech)
 - [Hashed Timelock Contracts](https://en.bitcoin.it/wiki/Hashed_Timelock_Contracts)
 - [LN as a Directed Graph; Single-Funded Channel Topology](https://docs.google.com/presentation/d/1G4xchDGcO37DJ2lPC_XYyZIUkJc2khnLrCaZXgvDN0U/edit?pref=2&pli=1#slide=id.g85f425098_0_2) (Slides)
 - [How to Do "2-of-3 Multisig Contract" Equivalent on Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2016-January/000403.html) (From LN Mailing List)
