@@ -66,6 +66,7 @@ Implementations of the Lightning Network Protocol
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
+- [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 
 ### Web Interfaces
 
@@ -115,6 +116,7 @@ Implementations of the Lightning Network Protocol
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
 - [LN in a box](https://github.com/bajohns/lightning-in-a-box) - Project that aims to quickly have lnd + btc setup for playing
 - [Lightning Dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze the communication between lightning network nodes. _Currently compatible with ptarmigan and Eclair implementations_
+- [C-lightning-plugins](https://github.com/conscott/c-lightning-plugins) - Collection of plugin scripts to control c-lightning
 
 ### Libraries
 
@@ -136,6 +138,10 @@ Implementations of the Lightning Network Protocol
 - [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
+- [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
+- [Sitzprobe](https://github.com/niftynei/sitzprobe) - A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
+- [get-lightning-paid](https://github.com/conscott/get-lightning-paid) - A Flask REST API to generate lightning invoices and payment confirmations
+- [lnd-sql](https://github.com/lightning-power-users/lnd-sql) - Output the lnd node data in a relational SQL database
 
 ### Tutorials
 
