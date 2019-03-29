@@ -139,6 +139,7 @@ Implementations of the Lightning Network Protocol
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
 - [Sitzprobe](https://github.com/niftynei/sitzprobe) - A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
+- [get-lightning-paid](https://github.com/conscott/get-lightning-paid) - A Flask REST API to generate lightning invoices and payment confirmations
 
 ### Tutorials
 
