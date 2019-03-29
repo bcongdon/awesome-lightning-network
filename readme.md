@@ -136,6 +136,7 @@ Implementations of the Lightning Network Protocol
 - [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
+- [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
 
 ### Tutorials
 
