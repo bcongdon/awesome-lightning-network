@@ -137,6 +137,7 @@ Implementations of the Lightning Network Protocol
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
+- [Sitzprobe](https://github.com/niftynei/sitzprobe) - A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
 
 ### Tutorials
 
