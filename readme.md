@@ -66,6 +66,7 @@ Implementations of the Lightning Network Protocol
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
+- [sparko](https://github.com/fiatjaf/sparko) - spark-wallet reimplemented in Go for single-binary distribution and fine-grained access control
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
