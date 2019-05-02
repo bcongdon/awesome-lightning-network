@@ -43,6 +43,8 @@ Implementations of the Lightning Network Protocol
 - [eclair](https://github.com/ACINQ/eclair) - A Scala implementation of the Lightning Network (Scala)
 - [lit](https://github.com/mit-dci/lit) - Lightning Network node software (Golang)
 - [c-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
+- [rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust [Incomplete]
+- [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
 - [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation [Incomplete]
 
 ### Specifications / White Papers
@@ -64,7 +66,9 @@ Implementations of the Lightning Network Protocol
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
+- [sparko](https://github.com/fiatjaf/sparko) - spark-wallet reimplemented in Go for single-binary distribution and fine-grained access control
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
+- [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 
 ### Web Interfaces
