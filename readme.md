@@ -72,7 +72,8 @@ Implementations of the Lightning Network Protocol
 
 - [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
 - [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
-- [Joule](http://lightningjoule.com) - A chrome extension that enables payments and other interactions with lightning apps (Similar to MetaMask)
+- [Joule](http://lightningjoule.com) - A browser extension for lnd that enables payments and other interactions with lightning apps (similar to MetaMask)
+- [kWh](https://github.com/fiatjaf/kwh) - A browser extension that connects to c-lightning or Eclair nodes and enables interactions with Lightning apps (similar to Joule)
 - [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
 - [lncli-web](https://github.com/mably/lncli-web) - Light-weight web client for the lnd daemon written in NodeJS / Angular
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
