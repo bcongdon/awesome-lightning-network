@@ -44,7 +44,7 @@ Implementations of the Lightning Network Protocol
 - [lit](https://github.com/mit-dci/lit) - Lightning Network node software (Golang)
 - [c-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
-- [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation [Incomplete]
+- [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation
 
 ### Specifications / White Papers
 
