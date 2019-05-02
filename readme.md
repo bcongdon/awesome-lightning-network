@@ -66,6 +66,7 @@ Implementations of the Lightning Network Protocol
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
+- [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 
 ### Web Interfaces
