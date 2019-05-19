@@ -160,6 +160,7 @@ Implementations of the Lightning Network Protocol
 - [How to Send Payments via CLI on the Lightning Network](https://andrewgriffithsonline.com/blog/guide-to-make-lightning-network-payments)
 - [Using the LND Web Client](http://dev.lightning.community/tutorial/02-web-client/index.html)
 - [Setup LND and Bitcoind on Ubuntu 16.04 LTS](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13) - Install guide for LND, bitcoind, on Ubuntu, with startup scripts with email alerts.
+- [Build a complete working Lightning app in 1 hour](https://mvanderh.github.io/pragmatic-lightning/)
 
 ### Example Projects
 
