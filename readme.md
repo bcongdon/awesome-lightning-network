@@ -88,6 +88,7 @@ Implementations of the Lightning Network Protocol
 - [Swift Lightning](https://github.com/biscottigelato/SwiftLightning) - LN wallet build on top of LND for iOS
 - [Bitcoin Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.walletapp)  - An Android based Lightning Network compatible wallet based on Eclair ([testnet version](https://play.google.com/store/apps/details?id=com.lightning.wallet))
 - [Eclair Mobile](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
+- [Globular](https://gitlab.com/inbitcoin/globular) - cross-implementation LN Android remote wallet, connects to a Lighter instance (see [Libraries](#libraries) section)
 
 ### Explorers
 
