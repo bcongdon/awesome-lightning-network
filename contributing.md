@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Run `doctoc README.md` on the repo to generate an updated table-of-contents (if adding a new section)
+- Run `doctoc readme.md` on the repo to generate an updated table-of-contents (if adding a new section)
     - Doctoc can be found [here](https://github.com/thlorenz/doctoc).
 - Ensure that any suggestions are directly related to the Lightning Network
 
