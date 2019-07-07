@@ -21,6 +21,7 @@
   - [Libraries](#libraries)
   - [Tutorials](#tutorials)
   - [Example Projects](#example-projects)
+  - [Simulators](#simulators)
 - [Learning Resources](#learning-resources)
   - [Talks](#talks)
   - [Books](#books)
@@ -168,6 +169,13 @@ Implementations of the Lightning Network Protocol
 - [ilp-lightning-demo](https://github.com/interledgerjs/ilp-lightning-demo) - Demo sending payments between Bitcoin and Litecoin Lightning Networks using Interledger
 - [lightning-coindesk](https://github.com/lightninglabs/lightning-coindesk) - An example news app exemplifying Lightning Network micropayments integration
 
+### Simulators
+
+- [lnsim](https://github.com/dianerey/lnsim) - A simulator in OCaml (2017). See also: [Simulating a Decentralized Lightning Network with 10 Million Users](https://hackernoon.com/simulating-a-decentralized-lightning-network-with-10-million-users-9a8b5930fa7a) by Reynolds and [Simulating a Decentralized Lightning Network with 500,000 payments, 0.01% fee per hub and 10 Million Users: 100% success (99.9986%)](https://www.reddit.com/r/Bitcoin/comments/7mwag6/simulating_a_decentralized_lightning_network_with/)
+- [LNSim](https://github.com/gdistasi/LNSim/) - A simulator in C++ (2018). See paper (PDF): [Routing payments on the Lightning Network](http://wpage.unina.it/giovanni.distasi/pub/blockchain2018-main.pdf) by Di Stasi et al.
+- CLoTH - A simulator in C. See paper [CLoTH: a Simulator for HTLC Payment Networks](https://arxiv.org/abs/1812.09940) by Conoscenti et al. Code not released.
+- Blyskavka - A simulator in Java. See paper [Split Payments in Payment Networks](https://www.researchgate.net/publication/327470777_Split_Payments_in_Payment_Networks_ESORICS_2018_International_Workshops_DPM_2018_and_CBT_2018_Barcelona_Spain_September_6-7_2018_Proceedings) by Piatkivskyi and Nowostawski. Code not released.
+- [Lightning-Network-Simulator](https://github.com/whiteyhat/Lightning-Network-Simulator) (2019) - A simulator in Java. See [website](https://devpost.com/software/lightning-network-simulator).
 
 ## Learning Resources
 
