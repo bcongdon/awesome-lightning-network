@@ -71,6 +71,7 @@ Implementations of the Lightning Network Protocol
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
+- [Sparkswap Desktop](https://github.com/sparkswap/sparkswap-desktop) - Buy BTC using USD and LND
 
 ### Web Interfaces
 
