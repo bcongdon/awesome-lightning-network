@@ -199,6 +199,7 @@ Implementations of the Lightning Network Protocol
 
 ### Books
 
+- [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
 
 ## Community
