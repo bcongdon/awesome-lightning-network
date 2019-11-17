@@ -18,6 +18,7 @@
   - [Explorers](#explorers)
   - [Misc](#misc)
 - [Developer Resources](#developer-resources)
+  - [Tools](#tools)
   - [Libraries](#libraries)
   - [Tutorials](#tutorials)
   - [Example Projects](#example-projects)
