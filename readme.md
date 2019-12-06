@@ -181,6 +181,7 @@ Implementations of the Lightning Network Protocol
 - CLoTH - A simulator in C. See paper [CLoTH: a Simulator for HTLC Payment Networks](https://arxiv.org/abs/1812.09940) by Conoscenti et al. Code not released.
 - Blyskavka - A simulator in Java. See paper [Split Payments in Payment Networks](https://www.researchgate.net/publication/327470777_Split_Payments_in_Payment_Networks_ESORICS_2018_International_Workshops_DPM_2018_and_CBT_2018_Barcelona_Spain_September_6-7_2018_Proceedings) by Piatkivskyi and Nowostawski. Code not released.
 - [Lightning-Network-Simulator](https://github.com/whiteyhat/Lightning-Network-Simulator) (2019) - A simulator in Java. See [website](https://devpost.com/software/lightning-network-simulator).
+- [LNTrafficSimulator](https://github.com/ferencberes/LNTrafficSimulator)
 
 ## Learning Resources
 
