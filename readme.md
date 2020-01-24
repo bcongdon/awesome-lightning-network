@@ -205,6 +205,7 @@ Implementations of the Lightning Network Protocol
 
 - [Mastering the Lightning Network (LN)](https://github.com/lnbook/lnbook)
 - [Mastering Bitcoin, 2nd Edition](http://shop.oreilly.com/product/0636920049524.do)
+- [Bitcoin and Lightning Network on Raspberry Pi](https://www.apress.com/gp/book/9781484255216)
 
 ## Community
 
