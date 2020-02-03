@@ -76,7 +76,6 @@ Implementations of the Lightning Network Protocol
 
 ### Web Interfaces
 
-- [Discovery wallet](https://github.com/Lightning-Family/Discovery-Wallet) - Web custodial wallet; [Live demo](https://wallet.lightning.family)
 - [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
 - [Joule](http://lightningjoule.com) - A browser extension for lnd that enables payments and other interactions with lightning apps (similar to MetaMask)
 - [kWh](https://github.com/fiatjaf/kwh) - A browser extension that connects to c-lightning or Eclair nodes and enables interactions with Lightning apps (similar to Joule)
@@ -215,7 +214,6 @@ Implementations of the Lightning Network Protocol
 - [LND Developer Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/enQtMzQ0OTQyNjE5NjU1LWRiMGNmOTZiNzU0MTVmYzc1ZGFkZTUyNzUwOGJjMjYwNWRkNWQzZWE3MTkwZjdjZGE5ZGNiNGVkMzI2MDU4ZTE)
 - [Lightning Labs Blog](https://blog.lightning.engineering/)
 - [Lightning Discord](https://discord.gg/sm2rfS7)
-- [Lightning Network Family](https://github.com/Lightning-Family)
 - [Lightnig Wiki](https://lightningwiki.net)
 
 ### IRC
