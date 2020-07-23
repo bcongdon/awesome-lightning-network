@@ -84,6 +84,10 @@ Implementations of the Lightning Network Protocol
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
 
+### Commandline Interfaces
+
+- [bos – Balance of satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Advanced tool for LND with powerful rebalancing options and telegram bot support written in NodeJS 
+
 ### Mobile applications
 
 - [rawtx](https://github.com/rawtxapp/rawtxapp) - A lightning network wallet (Android, iOS); [Homepage](https://rawtx.com)
