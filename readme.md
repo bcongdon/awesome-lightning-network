@@ -14,6 +14,7 @@
 - [Applications](#applications)
   - [Desktop Interfaces](#desktop-interfaces)
   - [Web Interfaces](#web-interfaces)
+  - [Command Line Interfaces](#command-line-interfaces)
   - [Mobile applications](#mobile-applications)
   - [Explorers](#explorers)
   - [Misc](#misc)
@@ -68,7 +69,6 @@ Implementations of the Lightning Network Protocol
 - [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
-- [sparko](https://github.com/fiatjaf/sparko) - spark-wallet reimplemented in Go for single-binary distribution and fine-grained access control
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
@@ -114,7 +114,6 @@ Implementations of the Lightning Network Protocol
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [Blog Post](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [Blog Post](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
-- [Lightning-Singles](https://singles.shock.network) - API for finding channel partners for node liquidity
 - [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 - [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
@@ -216,10 +215,9 @@ Implementations of the Lightning Network Protocol
 - [Lightning Network Community Blog](http://lightning.community/)
 - [Lightning Network Twitter Feed](https://twitter.com/lightning)
 - [Lightning Network Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
-- [LND Developer Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/enQtMzQ0OTQyNjE5NjU1LWRiMGNmOTZiNzU0MTVmYzc1ZGFkZTUyNzUwOGJjMjYwNWRkNWQzZWE3MTkwZjdjZGE5ZGNiNGVkMzI2MDU4ZTE)
 - [Lightning Labs Blog](https://blog.lightning.engineering/)
 - [Lightning Discord](https://discord.gg/sm2rfS7)
-- [Lightnig Wiki](https://lightningwiki.net)
+- [Lightning Wiki](https://lightningwiki.net)
 
 ### IRC
 
@@ -234,9 +232,7 @@ Implementations of the Lightning Network Protocol
 - [Lightning Network Stores](http://lightningnetworkstores.com/)
 - [Accept Lightning](https://acceptlightning.com/) - Directory of merchants accepting Lightning payments
 - [Robtex LN Directory](https://www.robtex.com/directory/lightning/) - List of lapps and stores.
-- [Opennode Lapps Directory](https://lightninglist.co/) - Opennode index of lapps and stores.
 - [lnroute lists](https://lnroute.com/) - List of resources, lapps and stores.
-- [lnapps lists](https://lnapps.info/) - List of lapps index.
 
 
 ## Contribute
