@@ -73,6 +73,7 @@ Implementations of the Lightning Network Protocol
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 - [Sparkswap Desktop](https://github.com/sparkswap/sparkswap-desktop) - Buy BTC using USD and LND
+- [ShockWizard](https://github.com/shocknet/Wizard) - Install a Shockwallet LND node on any Desktop/Laptop in just a few clicks.
 
 ### Web Interfaces
 
@@ -97,6 +98,7 @@ Implementations of the Lightning Network Protocol
 - [Eclair Mobile](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
 - [Globular](https://gitlab.com/inbitcoin/globular) - cross-implementation LN Android remote wallet, connects to a Lighter instance (see [Libraries](#libraries) section)
 - [Muun](https://muun.com/) - A Lightning Network wallet for Android. ([Github](https://github.com/muun/apollo))
+- [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
 
 ### Explorers
 
