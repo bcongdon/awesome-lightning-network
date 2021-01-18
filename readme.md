@@ -161,6 +161,7 @@ Implementations of the Lightning Network Protocol
 - [Sitzprobe](https://github.com/niftynei/sitzprobe) - A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
 - [get-lightning-paid](https://github.com/conscott/get-lightning-paid) - A Flask REST API to generate lightning invoices and payment confirmations
 - [lnd-sql](https://github.com/lightning-power-users/lnd-sql) - Output the lnd node data in a relational SQL database
+- [Dazaar](http://dazaar.com/) - A library for selling data over a P2P network.
 
 ### Tutorials
 
