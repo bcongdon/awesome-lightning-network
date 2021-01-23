@@ -194,6 +194,7 @@ Implementations of the Lightning Network Protocol
 - [Hashed Timelock Contracts](https://en.bitcoin.it/wiki/Hashed_Timelock_Contracts)
 - [LN as a Directed Graph; Single-Funded Channel Topology](https://docs.google.com/presentation/d/1G4xchDGcO37DJ2lPC_XYyZIUkJc2khnLrCaZXgvDN0U/edit?pref=2&pli=1#slide=id.g85f425098_0_2) (Slides)
 - [How to Do "2-of-3 Multisig Contract" Equivalent on Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2016-January/000403.html) (From LN Mailing List)
+- [Quick Guide to help new users to on-board Lightning Network](https://uselightning.network/)
 
 ### Talks
 
