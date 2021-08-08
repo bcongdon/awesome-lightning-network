@@ -99,6 +99,8 @@ Implementations of the Lightning Network Protocol
 - [Globular](https://gitlab.com/inbitcoin/globular) - cross-implementation LN Android remote wallet, connects to a Lighter instance (see [Libraries](#libraries) section)
 - [Muun](https://muun.com/) - A Lightning Network wallet for Android. ([Github](https://github.com/muun/apollo))
 - [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
+- [Zebedee](https://zbd.gg) - Bitcoin gaming wallet
+
 
 ### Explorers
 
@@ -135,6 +137,8 @@ Implementations of the Lightning Network Protocol
 
 ### Tools
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
+- [Lightning Cash](https://ln.cash) - An app for gifting satoshis
+- [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
 
 ### Libraries
 
