@@ -70,7 +70,6 @@ Implementations of the Lightning Network Protocol
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
 - [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
 - [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
-- [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 - [Sparkswap Desktop](https://github.com/sparkswap/sparkswap-desktop) - Buy BTC using USD and LND
 - [ShockWizard](https://github.com/shocknet/Wizard) - Install a Shockwallet LND node on any Desktop/Laptop in just a few clicks.
@@ -88,7 +87,11 @@ Implementations of the Lightning Network Protocol
 
 ### Command Line Interfaces
 
-- [bos – Balance of satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Advanced tool for LND with powerful rebalancing options and telegram bot support written in NodeJS 
+- [bos – Balance of satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Advanced tool for LND with powerful rebalancing options and telegram bot support written in NodeJS
+- [charge-lnd](https://github.com/accumulator/charge-lnd) - policy based fee manager for LND
+- [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
+- [rebalance-lnd](https://github.com/C-Otto/rebalance-lnd) - A script that can be used to balance lightning channels of a lnd node
+- [suez](https://github.com/prusnak/suez) - Tool for pretty printing and optimizing Lightning Network channels
 
 ### Mobile applications
 
@@ -105,6 +108,7 @@ Implementations of the Lightning Network Protocol
 ### Explorers
 
 - [1ML](https://1ml.com/) - 1ML explorer (mainnet + testnet)
+- [Amboss.space](https://amboss.space/) - Amboss.space explorer
 - [Bitcoin Exchange Rate](https://bitcoinexchangerate.org/lightning) - Lightning network explorer (testnet and mainnet)
 - [Lightblock](https://lightblock.me) - lightning network explorer mainnet.
 - [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
@@ -114,6 +118,7 @@ Implementations of the Lightning Network Protocol
 
 ### Misc
 
+- [lightning-address-nodejs](https://github.com/mefatbear/lightning-address-nodejs) - Simple server for your personal Lightning Address
 - [bitcoin-kit-makefile](https://github.com/Perlover/bitcoin-kit-makefile) - Easy installation of full bitcoin and lightning nodes from sources
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [Blog Post](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
@@ -137,6 +142,7 @@ Implementations of the Lightning Network Protocol
 - [C-lightning-plugins](https://github.com/conscott/c-lightning-plugins) - Collection of plugin scripts to control c-lightning
 
 ### Tools
+
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
