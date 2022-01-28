@@ -248,6 +248,7 @@ Implementations of the Lightning Network Protocol
 - [Accept Lightning](https://acceptlightning.com/) - Directory of merchants accepting Lightning payments
 - [Robtex LN Directory](https://www.robtex.com/directory/lightning/) - List of lapps and stores.
 - [lnroute lists](https://lnroute.com/) - List of resources, lapps and stores.
+- [Lightning network node operator's guide](https://github.com/aljazceru/lightning-network-node-operator) -  Resources and guides for lightning network operators 
 
 
 ## Contribute
