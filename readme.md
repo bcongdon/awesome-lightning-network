@@ -84,6 +84,7 @@ Implementations of the Lightning Network Protocol
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
 - [ThunderHub](https://github.com/apotdevin/thunderhub) - Web UI for managing (multiple) LND Nodes written in TypeScript / React
+- [Lightning Liquidity Store](https://github.com/Niach/lightning-liquidity-store) - Web App to simply sell inbound liquidity to other nodes
 
 ### Command Line Interfaces
 
