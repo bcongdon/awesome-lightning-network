@@ -45,7 +45,7 @@ Implementations of the Lightning Network Protocol
 - [LND](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon (Golang)
 - [eclair](https://github.com/ACINQ/eclair) - A Scala implementation of the Lightning Network (Scala)
 - [lit](https://github.com/mit-dci/lit) - Lightning Network node software (Golang)
-- [c-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
+- [core-lightning](https://github.com/ElementsProject/lightning) - A Lightning Network implementation in C
 - [rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust [Incomplete]
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
 - [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation
@@ -66,20 +66,20 @@ Implementations of the Lightning Network Protocol
 - [lnd-gui](https://github.com/alexbosworth/lnd-gui) - Lightning MacOS GUI Wallet
 - [eclair-node-gui](https://github.com/ACINQ/eclair) - Cross-platform desktop GUI for Lightning
 - [zap-desktop](https://github.com/LN-Zap/zap-desktop) - Lightning Network desktop application
-- [Presto](https://github.com/icota/presto) - c-lightning based desktop wallet
+- [Presto](https://github.com/icota/presto) - core-lightning based desktop wallet
 - [Lightning Peach Wallet](https://github.com/LightningPeach/lightning-peach-wallet) - Bitfury Lightning Wallet
-- [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for c-lightning; available as web, mobile and desktop application
-- [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for c-lightning
+- [spark-wallet](https://github.com/shesek/spark-wallet) - Minimal GUI for core-lightning; available as web, mobile and desktop application
+- [Voltage](https://github.com/benharold/voltage) - Voltage is a macOS GUI for core-lightning
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 - [Sparkswap Desktop](https://github.com/sparkswap/sparkswap-desktop) - Buy BTC using USD and LND
 - [ShockWizard](https://github.com/shocknet/Wizard) - Install a Shockwallet LND node on any Desktop/Laptop in just a few clicks.
 
 ### Web Interfaces
 
-- [fulmo](https://github.com/marzig76/fulmo) - A minimalist c-lightning UI
+- [fulmo](https://github.com/marzig76/fulmo) - A minimalist core-lightning UI
 - [Joule](http://lightningjoule.com) - A browser extension for lnd that enables payments and other interactions with lightning apps (similar to MetaMask)
-- [kWh](https://github.com/fiatjaf/kwh) - A browser extension that connects to c-lightning or Eclair nodes and enables interactions with Lightning apps (similar to Joule)
-- [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the c-lightning daemon lightningd and bitcoind
+- [kWh](https://github.com/fiatjaf/kwh) - A browser extension that connects to core-lightning or Eclair nodes and enables interactions with Lightning apps (similar to Joule)
+- [kugelblitz](https://github.com/cdecker/kugelblitz) - A simple UI for the core-lightning daemon lightningd and bitcoind
 - [lncli-web](https://github.com/mably/lncli-web) - Light-weight web client for the lnd daemon written in NodeJS / Angular
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
@@ -127,7 +127,7 @@ Implementations of the Lightning Network Protocol
 - [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
 - [ln-tip-slack](https://github.com/CryptoFR/ln-tip-slack) - Lightning [Slack](https://slack.com/) Tipbot
 - [lnplace](https://github.com/sangaman/lnplace) - Purchase pixels with lightning payments - Submission of [L2 Summit Hackathon](https://innovation.mit.edu/event/l2-summit/)
-- [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [Blog Post](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
+- [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on core-lightning); [Blog Post](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 - [Carrot](https://earncarrot.com) - Rewards site that lets you earn Bitcoin via Lightning
 - [Satoshis.Stream](https://satoshis.stream) - Earn Lightning sats as a podcaster, easily
 
@@ -139,7 +139,7 @@ Implementations of the Lightning Network Protocol
 - [Rusty Russell's BOLT Blog Series](https://medium.com/@rusty_lightning/the-bitcoin-lightning-spec-part-1-8-a7720fb1b4da)
 - [LN in a box](https://github.com/bajohns/lightning-in-a-box) - Project that aims to quickly have lnd + btc setup for playing
 - [Lightning Dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze the communication between lightning network nodes. _Currently compatible with ptarmigan and Eclair implementations_
-- [C-lightning-plugins](https://github.com/conscott/c-lightning-plugins) - Collection of plugin scripts to control c-lightning
+- [core-lightning-plugins](https://github.com/conscott/c-lightning-plugins) - Collection of plugin scripts to control core-lightning
 
 ### Tools
 
@@ -150,13 +150,13 @@ Implementations of the Lightning Network Protocol
 ### Libraries
 
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
-- [Lighter](https://gitlab.com/inbitcoin/lighter) - LN node wrapper for c-lightning, eclair and LND (Python)
+- [Lighter](https://gitlab.com/inbitcoin/lighter) - LN node wrapper for core-lightning, eclair and LND (Python)
 - [lightning-charge-client-js](https://github.com/ElementsProject/lightning-charge-client-js) - JavaScript client for lightning-charge
 - [lightning-charge-client-php](https://github.com/ElementsProject/lightning-charge-client-php) - PHP client for lightning-charge
 - [lightning-charge](https://github.com/ElementsProject/lightning-charge) - A simple drop-in solution for accepting lightning payments (Javascript)
 - [lightning-integration](https://github.com/cdecker/lightning-integration) - Lightning Integration Testing Framework
 - [lightning-payencode](https://github.com/rustyrussell/lightning-payencode) - Minimal QR-code-ready encoding for requesting lightning payments
-- [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the c-lightning daemon
+- [lightning-php](https://github.com/thorie7912/lightning-php) - PHP client for direct RPC-based access to the core-lightning daemon
 - [LightningJ](http://www.lightningj.org/) - LND Integration API for Java
 - [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
 - [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
@@ -167,9 +167,9 @@ Implementations of the Lightning Network Protocol
 - [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
-- [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
-- [lightningd-gjson-rpc](https://github.com/fiatjaf/lightningd-gjson-rpc) - [gjson](https://github.com/tidwall/gjson)-based RPC client for c-lightning.
-- [Sitzprobe](https://github.com/niftynei/sitzprobe) - A c-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
+- [glightning](https://github.com/niftynei/glightning) - Golang based plugin for core-lightning
+- [lightningd-gjson-rpc](https://github.com/fiatjaf/lightningd-gjson-rpc) - [gjson](https://github.com/tidwall/gjson)-based RPC client for core-lightning.
+- [Sitzprobe](https://github.com/niftynei/sitzprobe) - A core-lightning plugin that actively sends test payments through the lightning network allowing finding and/or deprecating channels for the payments
 - [get-lightning-paid](https://github.com/conscott/get-lightning-paid) - A Flask REST API to generate lightning invoices and payment confirmations
 - [lnd-sql](https://github.com/lightning-power-users/lnd-sql) - Output the lnd node data in a relational SQL database
 - [Dazaar](http://dazaar.com/) - A library for selling data over a P2P network.
