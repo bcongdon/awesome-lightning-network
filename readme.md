@@ -104,6 +104,8 @@ Implementations of the Lightning Network Protocol
 - [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
 - [Zebedee](https://zbd.gg) - Bitcoin gaming wallet
 
+### Browser wallet
+- [Alby](https://getalby.com/) - Bitcoin Lightning wallet for your browser
 
 ### Explorers
 
@@ -140,6 +142,7 @@ Implementations of the Lightning Network Protocol
 - [LN in a box](https://github.com/bajohns/lightning-in-a-box) - Project that aims to quickly have lnd + btc setup for playing
 - [Lightning Dissector](https://github.com/nayutaco/lightning-dissector) - A wireshark plugin to analyze the communication between lightning network nodes. _Currently compatible with ptarmigan and Eclair implementations_
 - [C-lightning-plugins](https://github.com/conscott/c-lightning-plugins) - Collection of plugin scripts to control c-lightning
+- [WebLN Guide](https://www.webln.guide/) - How to build a Bitcoin Lightning-driven web application using the WebLN standard
 
 ### Tools
 
