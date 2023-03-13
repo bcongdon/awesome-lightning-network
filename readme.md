@@ -146,6 +146,7 @@ Implementations of the Lightning Network Protocol
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
+- [Lightsats](https://lightsats.com) - Another app for gifting satoshis
 
 ### Libraries
 
