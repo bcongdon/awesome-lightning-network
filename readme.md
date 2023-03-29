@@ -84,6 +84,7 @@ Implementations of the Lightning Network Protocol
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
 - [ThunderHub](https://github.com/apotdevin/thunderhub) - Web UI for managing (multiple) LND Nodes written in TypeScript / React
+- [NodeGuard](https://github.com/Elenpay/NodeGuard) - Web-based treasury management solution for lightning nodes
 
 ### Command Line Interfaces
 
