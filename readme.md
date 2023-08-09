@@ -100,6 +100,7 @@ Implementations of the Lightning Network Protocol
 - [Bitcoin Lightning Wallet](https://play.google.com/store/apps/details?id=com.lightning.walletapp)  - An Android based Lightning Network compatible wallet based on Eclair ([testnet version](https://play.google.com/store/apps/details?id=com.lightning.wallet))
 - [Eclair Mobile](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
 - [Globular](https://gitlab.com/inbitcoin/globular) - cross-implementation LN Android remote wallet, connects to a Lighter instance (see [Libraries](#libraries) section)
+- [Mash](https://mash.com/consumer-experience/) – A Lightning wallet app. Built as a progressive web app (PWA); works on iOS/Android (and on desktop in a browser).
 - [Muun](https://muun.com/) - A Lightning Network wallet for Android. ([Github](https://github.com/muun/apollo))
 - [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
 - [Zebedee](https://zbd.gg) - Bitcoin gaming wallet
@@ -146,6 +147,7 @@ Implementations of the Lightning Network Protocol
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
+- [Mash](https://mash.com) - A platform for monetizing websites and online content with Lightning
 
 ### Libraries
 
