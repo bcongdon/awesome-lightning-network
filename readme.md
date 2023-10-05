@@ -49,6 +49,7 @@ Implementations of the Lightning Network Protocol
 - [rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust [Incomplete]
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
 - [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation
+- [electrum](https://electrum.org/) - has an integrated Lightning Network implementation in python
 
 ### Specifications / White Papers
 
@@ -73,6 +74,7 @@ Implementations of the Lightning Network Protocol
 - [Node-launcher](https://github.com/lightning-power-users/node-launcher) - Quickly install BTC and launch the LN desktop app
 - [Sparkswap Desktop](https://github.com/sparkswap/sparkswap-desktop) - Buy BTC using USD and LND
 - [ShockWizard](https://github.com/shocknet/Wizard) - Install a Shockwallet LND node on any Desktop/Laptop in just a few clicks.
+- [electrum](https://electrum.org/) - Cross-platform Desktop Application with native lightning support
 
 ### Web Interfaces
 
@@ -92,6 +94,7 @@ Implementations of the Lightning Network Protocol
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
 - [rebalance-lnd](https://github.com/C-Otto/rebalance-lnd) - A script that can be used to balance lightning channels of a lnd node
 - [suez](https://github.com/prusnak/suez) - Tool for pretty printing and optimizing Lightning Network channels
+- [electrum](https://electrum.org/) - All functionality can be accessed through its built in cli tool. Run `electrum help` to see a list of commands
 
 ### Mobile applications
 
@@ -103,7 +106,7 @@ Implementations of the Lightning Network Protocol
 - [Muun](https://muun.com/) - A Lightning Network wallet for Android. ([Github](https://github.com/muun/apollo))
 - [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
 - [Zebedee](https://zbd.gg) - Bitcoin gaming wallet
-
+- [electrum](https://electrum.org/) - Android only, it runs a full electrum lightning node directly on your phone
 
 ### Explorers
 
