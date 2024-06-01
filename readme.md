@@ -103,7 +103,7 @@ Implementations of the Lightning Network Protocol
 - [Muun](https://muun.com/) - A Lightning Network wallet for Android. ([Github](https://github.com/muun/apollo))
 - [Shockwallet](https://shockwallet.app) - A Lightning SuperApp and Decentralized Social Network. ([Github](https://github.com/shocknet/wallet))
 - [Zebedee](https://zbd.gg) - Bitcoin gaming wallet
-
+- [Zeus](https://github.com/ZeusLN/zeus) - A mobile Bitcoin wallet to control LN Node
 
 ### Explorers
 
@@ -113,7 +113,6 @@ Implementations of the Lightning Network Protocol
 - [Lightblock](https://lightblock.me) - lightning network explorer mainnet.
 - [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
 - [List of explorers](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d) - meta list of visualisers and metrics sites
-- [lngraph](https://github.com/xsb/lngraph) - Personal private Lightning Network explorer using Neo4j Browser.
 - [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
 
 ### Misc
