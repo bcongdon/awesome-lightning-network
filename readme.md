@@ -161,6 +161,7 @@ Implementations of the Lightning Network Protocol
 - [ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing APIs on a per-request basis with Lightning
 - [ln-service](https://github.com/alexbosworth/ln-service) - Lightning REST Service
 - [lncall](https://github.com/michael1011/lncall) - LND implementation of paypercall
+- [l402-go](https://github.com/joelklabo/l402-go) - Go client library for L402 (HTTP 402 + Lightning invoice + pay-and-retry) pay-per-request APIs
 - [lnrpc](https://github.com/RadarTech/lnrpc) - Auto-generated LND RPC interface with Typescript type definition support
 - [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
