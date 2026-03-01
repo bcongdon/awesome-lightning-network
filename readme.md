@@ -130,6 +130,7 @@ Implementations of the Lightning Network Protocol
 - [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [Blog Post](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 - [Carrot](https://earncarrot.com) - Rewards site that lets you earn Bitcoin via Lightning
 - [Satoshis.Stream](https://satoshis.stream) - Earn Lightning sats as a podcaster, easily
+- [Crinkl](https://app.crinkl.xyz) - Earn sats over Lightning by scanning purchase receipts
 
 ## Developer Resources
 
