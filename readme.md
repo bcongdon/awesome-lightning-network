@@ -49,6 +49,7 @@ Implementations of the Lightning Network Protocol
 - [rust-lightning](https://github.com/rust-bitcoin/rust-lightning) - A Lightning Network implementation in Rust [Incomplete]
 - [lightning-onion](https://github.com/lightningnetwork/lightning-onion) - Onion Routed Micropayments for the Lightning Network (Golang)
 - [ptarmigan](https://github.com/nayutaco/ptarmigan) - C++ BOLT-Compliant Lightning Network Implementation
+- [SuperScalar](https://github.com/8144225309/SuperScalar) - Lightning channel factories that onboard N users in one shared UTXO using Decker-Wattenhofer invalidation trees, timeout-signature trees, and Poon-Dryja channels. No soft fork required. MuSig2, Taproot, watchtower support. (C) ([Website](https://SuperScalar.win)) ([MCP Server](https://github.com/8144225309/superscalar-mcp))
 
 ### Specifications / White Papers
 
