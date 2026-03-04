@@ -84,6 +84,7 @@ Implementations of the Lightning Network Protocol
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
 - [ThunderHub](https://github.com/apotdevin/thunderhub) - Web UI for managing (multiple) LND Nodes written in TypeScript / React
+- [Lightning Faucet](https://lightningfaucet.com/casino/) - Provably fair Bitcoin casino on Lightning Network with slots, blackjack, roulette, and scratchcards
 
 ### Command Line Interfaces
 
@@ -146,6 +147,7 @@ Implementations of the Lightning Network Protocol
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
+- [Lightning Wallet MCP](https://github.com/lightningfaucet/lightning-wallet-mcp) - MCP server and CLI that gives AI agents a Bitcoin Lightning wallet with L402/X402 paid API support
 
 ### Libraries
 
