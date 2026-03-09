@@ -146,6 +146,7 @@ Implementations of the Lightning Network Protocol
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
+- [Lightning Memory](https://github.com/singularityjason/lightning-memory) - MCP-based agent memory protocol for the Lightning economy. Gives AI agents persistent vendor reputation, spending patterns, and anomaly detection. Includes L402 payment gateway and Nostr identity (NIP-78).
 
 ### Libraries
 
