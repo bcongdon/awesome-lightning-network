@@ -164,7 +164,7 @@ Implementations of the Lightning Network Protocol
 - [lnrpc](https://github.com/RadarTech/lnrpc) - Auto-generated LND RPC interface with Typescript type definition support
 - [lseed](https://github.com/cdecker/lseed) - A DNS seed for the Lightning Network
 - [paypercall](https://github.com/ElementsProject/paypercall) - Charge for HTTP APIs on a per-per-call basis with Lightning
-- [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
+- [toll-booth](https://github.com/forgesworn/toll-booth) - L402 middleware for Express, Hono, and Web Standard servers. Supports Phoenixd, LND, CLN, LNbits, and NWC backends with credit tiers and Cashu-only mode.- [webln](https://github.com/wbobeirne/webln) - An app library & set of standards for communication between apps and Lightning clients in the browser (similar to Web3)
 - [woocommerce-gateway-lightning](https://github.com/ElementsProject/woocommerce-gateway-lightning) - A WooCommerce gateway for lightning payments
 - [wordpress-lightning-publisher](https://github.com/ElementsProject/wordpress-lightning-publisher) - Lightning Publisher for WordPress
 - [glightning](https://github.com/niftynei/glightning) - Golang based plugin for c-lightning
