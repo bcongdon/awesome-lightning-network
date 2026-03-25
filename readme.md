@@ -118,6 +118,7 @@ Implementations of the Lightning Network Protocol
 
 ### Misc
 
+- [BitcoinVN](https://bitcoinvn.io) - Lightning-enabled non-custodial instant exchange supporting BTC deposits and withdrawals via Lightning Network across 103+ assets
 - [lightning-address-nodejs](https://github.com/mefatbear/lightning-address-nodejs) - Simple server for your personal Lightning Address
 - [bitcoin-kit-makefile](https://github.com/Perlover/bitcoin-kit-makefile) - Easy installation of full bitcoin and lightning nodes from sources
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [Blog Post](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
