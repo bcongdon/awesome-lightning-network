@@ -146,9 +146,12 @@ Implementations of the Lightning Network Protocol
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing
 - [Lightning Cash](https://ln.cash) - An app for gifting satoshis
 - [Lightning Gifts](https://lightning.gifts) - Another app for gifting satoshis
+- [milo-lightning-channel-rebalance-advisor](https://github.com/miloantaeus/milo-lightning-channel-rebalance-advisor) - Mempool-aware channel rebalance plan generator. Suggests `bos rebalance` or `lightning-cli xpay` commands; suppresses suggestions when mempool fees ≥50 sat/vB. Free `/advise` (read-only); Lightning-paid `/advise/auto` (200 sats) for auto-execute command emission. MIT.
 
 ### Libraries
 
+- [milo-paywall-kit](https://github.com/miloantaeus/milo-paywall-kit) - Shared Lightning/L402 paywall infrastructure (invoice issuance, SQLite ledger, settlement watcher, FastAPI 402 gate). Pluggable invoice issuers (LNbits / Strike / Alby). MIT.
+- [milo-mcp-payment-decorator](https://github.com/miloantaeus/milo-mcp-payment-decorator) - `@require_payment(sats=N)` drop-in Python decorator that adds Lightning paywalls to any MCP tool function or Python callable. Free tier (100 invocations per caller); paid (1000 sats = unlimited). MIT.
 - [FileBazzar](https://github.com/ElementsProject/filebazaar) - Sell digital files with Lightning
 - [Lighter](https://gitlab.com/inbitcoin/lighter) - LN node wrapper for c-lightning, eclair and LND (Python)
 - [lightning-charge-client-js](https://github.com/ElementsProject/lightning-charge-client-js) - JavaScript client for lightning-charge
