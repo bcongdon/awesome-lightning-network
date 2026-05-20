@@ -122,6 +122,7 @@ Implementations of the Lightning Network Protocol
 - [bitcoin-kit-makefile](https://github.com/Perlover/bitcoin-kit-makefile) - Easy installation of full bitcoin and lightning nodes from sources
 - [ifpaytt](https://github.com/ElementsProject/ifpaytt) - IFTTT (If Pay Then This) based on Lightning payments; [Blog Post](https://blockstream.com/2018/03/27/ifpaytt-brings-lightning-micropayments-to-ifttt.html)
 - [lightning-faucet](https://github.com/lightninglabs/lightning-faucet) - A faucet for the Lightning Network
+- [LightningFaucet](https://lightningfaucet.com/) - Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
 - [lightning-jukebox](https://github.com/ElementsProject/lightning-jukebox) - A Lightning powered Jukebox; [Blog Post](https://blockstream.com/2018/03/28/lightning-jukebox-offers-a-fun-end-to-our-week-of-lapps.html)
 - [LightningBuddy](https://github.com/elaineo/LightningBuddy) - Twitter relay for Lightning JSON-RPC interface.
 - [LightningTip](https://github.com/michael1011/lightningtip) LND focused Lightning Tip too, embed in webpage.
