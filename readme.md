@@ -177,6 +177,7 @@ Implementations of the Lightning Network Protocol
 ### Tutorials
 
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
+- [TutorialSearch](https://tutorialsearch.io/browse/communication-skills/network-technology) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Using the LND gRPC Client](http://dev.lightning.community/tutorial/03-rpc-client/index.html)
 - [Integrating Lightning into a server-side web application](http://dev.lightning.community/tutorial/04-webapp-integration/index.html)
 - [How to use a Python gRPC Client with LND](http://dev.lightning.community/guides/python-grpc/)
