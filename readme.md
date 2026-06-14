@@ -130,6 +130,7 @@ Implementations of the Lightning Network Protocol
 - [nanotip](https://github.com/ElementsProject/nanotip) - Lightning Tip Box (based on c-lightning); [Blog Post](https://blockstream.com/2018/03/24/tipping-on-lightning-with-nanotip-lapp.html)
 - [Carrot](https://earncarrot.com) - Rewards site that lets you earn Bitcoin via Lightning
 - [Satoshis.Stream](https://satoshis.stream) - Earn Lightning sats as a podcaster, easily
+- [Loop Gateway](https://github.com/Loop-XXI/loop-gateway) - OpenAI-compatible LLM API metered in Bitcoin sats. 311 models routed through OpenRouter at a 15% markup. Supports prepaid bearer tokens, L402, and Cashu auth. Self-hostable; phoenixd as the LN node. Live at [api.loopxxi.com](https://api.loopxxi.com).
 
 ## Developer Resources
 
