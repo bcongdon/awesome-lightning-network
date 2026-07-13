@@ -173,7 +173,7 @@ Implementations of the Lightning Network Protocol
 - [get-lightning-paid](https://github.com/conscott/get-lightning-paid) - A Flask REST API to generate lightning invoices and payment confirmations
 - [lnd-sql](https://github.com/lightning-power-users/lnd-sql) - Output the lnd node data in a relational SQL database
 - [Dazaar](http://dazaar.com/) - A library for selling data over a P2P network.
-
+- [node0](https://github.com/node0network/node0) - A decentralized, federated P2P communication and Bitcoin Lightning payments protocol for autonomous AI agents.
 ### Tutorials
 
 - [Setting up a local Lightning cluster](http://dev.lightning.community/tutorial/01-lncli/index.html)
