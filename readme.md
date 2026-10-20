@@ -248,6 +248,8 @@ Implementations of the Lightning Network Protocol
 - [Accept Lightning](https://acceptlightning.com/) - Directory of merchants accepting Lightning payments
 - [Robtex LN Directory](https://www.robtex.com/directory/lightning/) - List of lapps and stores.
 - [lnroute lists](https://lnroute.com/) - List of resources, lapps and stores.
+- [awesome-bitcoin-events](https://github.com/itstomekk/awesome-bitcoin-events) - Bitcoin and Lightning conferences, meetups, festivals and retreats worldwide.
+- [awesome-bitcoin-culture](https://github.com/itstomekk/awesome-bitcoin-culture) - Art, film, books, music, podcasts and games about Bitcoin.
 
 
 ## Contribute
