@@ -87,6 +87,7 @@ Implementations of the Lightning Network Protocol
 
 ### Command Line Interfaces
 
+- [ROZO Checkout CLI](https://github.com/RozoAI/rozo-checkout-skill) - Pay OpenRouter and other Coinbase-hosted invoices with Bitcoin over Lightning using a BOLT11 invoice.
 - [bos – Balance of satoshis](https://github.com/alexbosworth/balanceofsatoshis) - Advanced tool for LND with powerful rebalancing options and telegram bot support written in NodeJS
 - [charge-lnd](https://github.com/accumulator/charge-lnd) - policy based fee manager for LND
 - [lntop](https://github.com/edouardparis/lntop) - TUI-based interactive channels dashboard for Unix systems
