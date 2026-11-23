@@ -84,6 +84,7 @@ Implementations of the Lightning Network Protocol
 - [Ride The Lightning](https://github.com/ShahanaFarooqui/RTL) - Web Client for LND Daemon written in NodeJS /  Angular 7
 - [LND-For-WP](https://github.com/rstmsn/lnd-for-wp) - WordPress plugin for managing & using your LND Node; [WordPress Plugin Directory](https://wordpress.org/plugins/lnd-for-wp/)
 - [ThunderHub](https://github.com/apotdevin/thunderhub) - Web UI for managing (multiple) LND Nodes written in TypeScript / React
+- [Fluid](https://github.com/Townsvilledh/fluid-wallet) - Open-source non-custodial wallet for every chain — Bitcoin, Lightning, EVM, Solana, Sui and more — from one seed phrase, with usernames instead of long addresses
 
 ### Command Line Interfaces
 
