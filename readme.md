@@ -114,6 +114,7 @@ Implementations of the Lightning Network Protocol
 - [Lightning network explorer](https://explorer.acinq.co/) - Lightning network explorer (testnet)
 - [List of explorers](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d) - meta list of visualisers and metrics sites
 - [lngraph](https://github.com/xsb/lngraph) - Personal private Lightning Network explorer using Neo4j Browser.
+- [Optaimaze](https://optaimaze.com/nodes) - Daily Routing Health ranking of the 500 largest public Lightning nodes, with node lookup, rank-drop alerts and a keyless JSON API.
 - [Robtex Bitcoin Lightning Explorer](https://www.robtex.com/lightning/node/) - Robtex Bitcoin Lightning Explorer (mainnet)
 
 ### Misc
